@@ -1,4 +1,4 @@
-# Level 1 Task 1: Print a Square
+# Level 1 Task 1: Print a Staircase
 
 ## Overview
 
@@ -119,11 +119,34 @@ Your task is to write a program that prints a square of a given size. The progra
 
 ### Requirements
 
-- The program should take the size of the square as input from the user
-- The program should print a square of the given size
-- The program should use a function to print the square
-- The program should use loops to print the square
+- The program should take the size of the Staircase as input from the user
+- The program should print a Staircase of the given size
+
+Example:
+```bash
+*
+**
+***
+****
+*****
+```
+
+- The program should use a function to print the Staircase
+- The program should use loops to print the Staircase
 - The program should be written in Python
+
+### Bonus
+
+- The program should print both sides of the staircase.
+
+Example:
+```bash
+    * *
+   ** **
+  *** ***
+ **** ****
+***** *****
+```
 
 ## Submission Guidelines
 

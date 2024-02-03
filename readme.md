@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a simple program that prints a square of a given size.
+This is a simple program that prints a Staircase of a given size.
 
 ## Learning Objectives
 
@@ -115,7 +115,7 @@ print_hello(size)
 
 ## Project Overview
 
-Your task is to write a program that prints a square of a given size. The program should take the size of the square as input from the user and print the square accordingly.
+Your task is to write a program that prints a Staircase of a given size. The program should take the size of the Staircase as input from the user and print the Staircase accordingly.
 
 ### Requirements
 

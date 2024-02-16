@@ -8,6 +8,3 @@ def case(x):
         u=u-1
 x=eval(input("Enter the size of the Staircase: "))
 case(x)
-
-  
-    

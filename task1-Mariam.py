@@ -1,6 +1,6 @@
-def print_staircase(size):
-    for i in range(1, size + 1):
-        print('*' * i)
+def staircase(S):
+    for i in range(1, S + 1):
+        print('*'* i)
 
-size = int(input("Enter the size of the Staircase: "))
-print_staircase(size)
+S = int(input("Enter the size of the Staircase: "))
+staircase(S)

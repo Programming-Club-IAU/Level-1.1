@@ -8,15 +8,9 @@ public class task2 {
         int second= enter.nextInt();
         if(first>second)
             System.out.println(first+" is grater than "+second );
-        
         else if(second>first)
             System.out.println(second+" is grater than "+first );
-
-        
         else
-            System.out.println("The two numbers are equal");
-
-        
+            System.out.println("The two numbers are equal");  
     }
 }
-
